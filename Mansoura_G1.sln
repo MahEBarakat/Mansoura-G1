@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mansoura_G1", "Mansoura_G1.csproj", "{8EACB9D6-00C7-4260-8090-48D446A0EFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G1_Connected", "..\G1_Connected\G1_Connected.csproj", "{104800EC-4060-4271-82D8-D30600320646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EACB9D6-00C7-4260-8090-48D446A0EFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EACB9D6-00C7-4260-8090-48D446A0EFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EACB9D6-00C7-4260-8090-48D446A0EFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EACB9D6-00C7-4260-8090-48D446A0EFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104800EC-4060-4271-82D8-D30600320646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104800EC-4060-4271-82D8-D30600320646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104800EC-4060-4271-82D8-D30600320646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104800EC-4060-4271-82D8-D30600320646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F0F5E6-4D30-418E-BD7B-5FA4CF160222}
+	EndGlobalSection
+EndGlobal

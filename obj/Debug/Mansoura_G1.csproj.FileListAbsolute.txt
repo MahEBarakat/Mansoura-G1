@@ -1,0 +1,10 @@
+C:\Users\ITI\source\repos\Mansoura_G1\bin\Debug\Mansoura_G1.exe.config
+C:\Users\ITI\source\repos\Mansoura_G1\bin\Debug\Mansoura_G1.exe
+C:\Users\ITI\source\repos\Mansoura_G1\bin\Debug\Mansoura_G1.pdb
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.csprojAssemblyReference.cache
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.Form1.resources
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.Properties.Resources.resources
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.csproj.GenerateResource.cache
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.csproj.CoreCompileInputs.cache
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.exe
+C:\Users\ITI\source\repos\Mansoura_G1\obj\Debug\Mansoura_G1.pdb
